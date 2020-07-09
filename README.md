@@ -1,15 +1,7 @@
-### Date created
-Include the date you created this project and README file.
-
-### Project Title
-Replace the Project Title
-
-### Description
-Describe what your project is about and what it does
-
-### Files used
-Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+This is a CLI program developed to allow the user to explore an US
+bikeshare system database and retrieve statistics information from
+the database. The user is able filter the information by city, month and
+weekday, in order to visualize statistics information related to a
+specific subset of data.
+This program is structured in 2
+steps.
